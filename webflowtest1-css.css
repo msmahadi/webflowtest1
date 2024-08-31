@@ -1,9 +1,4 @@
-
-.button-test-gh {
-    margin-top: 10px;
-    padding: 10px 20px;
-    background-color: #ff1144;
-    color: white;
-    border: none;
-    cursor: pointer;
+a.button-test-gh.w-button {
+    background: #ff1144 !important;
 }
+
